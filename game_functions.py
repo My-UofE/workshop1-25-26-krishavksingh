@@ -12,8 +12,7 @@ def check_higher_lower(current_val, next_val, user_input):
         higher = True
     if user_input == 'h' and higher == True:
         return True
-    elif:
-        user_input == 'l' and higher == False:
+    elif user_input == 'l' and higher == False:
         return True
     else:
         return False
